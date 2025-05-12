@@ -25,7 +25,5 @@ A C# console application that calculates salaries for different types of employe
 - ✅ Polymorphism via overridden `ToString()` methods
 - ✅ Constants and Encapsulation
 
----
 
-## 🏗 Project Structure
 
